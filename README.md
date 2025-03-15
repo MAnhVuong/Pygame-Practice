@@ -14,14 +14,17 @@ A basic vehicle simulation game using Python and Pygame. Players can move vehicl
 │-- KeyboardMover.py    # Handles keyboard input
 │-- Map.py              # Renders the game environment
 │-- /Images             # Folder for car and object images
+```
 ## How to Run
 ### Install dependencies:
 ```bash
 │-- pip install pygame pygame-menu
+```
 Clone this repository.
 ### Run the game:
 ```bash
 python main.py
+```
 ### Controls
 - L key: Move the first vehicle
 - D key: Move the second vehicle
