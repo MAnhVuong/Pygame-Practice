@@ -7,6 +7,7 @@ A basic vehicle simulation game using Python and Pygame. Players can move vehicl
 - Handle keyboard events and collisions
 - Simple graphics using Pygame
 ## Project Structure
+```bash
 /project-folder
 │-- main.py             # Main game loop
 │-- Vehicle.py          # Vehicle class for movement and collisions
@@ -15,9 +16,11 @@ A basic vehicle simulation game using Python and Pygame. Players can move vehicl
 │-- /Images             # Folder for car and object images
 ## How to Run
 ### Install dependencies:
+```bash
 │-- pip install pygame pygame-menu
 Clone this repository.
 ### Run the game:
+```bash
 python main.py
 ### Controls
 - L key: Move the first vehicle
